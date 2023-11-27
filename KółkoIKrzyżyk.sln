@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KółkoIKrzyżyk", "KółkoIKrzyżyk\KółkoIKrzyżyk.csproj", "{4457D6ED-2B69-4506-ADE0-D183174D6E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windows", "windows\windows.csproj", "{9A156DBB-846F-4A09-AF31-2B3930C26DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form2.cs", "Form2.cs\Form2.cs.csproj", "{1887C4B3-92A5-433D-9B86-61AB9F1826B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4457D6ED-2B69-4506-ADE0-D183174D6E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4457D6ED-2B69-4506-ADE0-D183174D6E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4457D6ED-2B69-4506-ADE0-D183174D6E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4457D6ED-2B69-4506-ADE0-D183174D6E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A156DBB-846F-4A09-AF31-2B3930C26DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A156DBB-846F-4A09-AF31-2B3930C26DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A156DBB-846F-4A09-AF31-2B3930C26DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A156DBB-846F-4A09-AF31-2B3930C26DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1887C4B3-92A5-433D-9B86-61AB9F1826B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1887C4B3-92A5-433D-9B86-61AB9F1826B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1887C4B3-92A5-433D-9B86-61AB9F1826B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1887C4B3-92A5-433D-9B86-61AB9F1826B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B45E49D0-7F4A-48F2-ACAC-6DE3602E1423}
+	EndGlobalSection
+EndGlobal
